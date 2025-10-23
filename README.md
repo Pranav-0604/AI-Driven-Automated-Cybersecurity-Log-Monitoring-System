@@ -38,3 +38,20 @@ The enriched data is parsed into a **human-readable format** and delivered as **
 6. **Alert Delivery:** Telegram bot receives and sends real-time notifications to users for immediate threat response.  
 
 ---
+
+
+## n8n Workflow
+
+The n8n automation workflow used in this project is provided in JSON format.
+
+This JSON file can be directly imported into the n8n editor to recreate the workflow.
+
+To import:
+
+Open your n8n instance.
+
+Click “Import from File” in the workflow menu.
+
+Select the provided .json workflow file.
+
+Save and activate the workflow.
